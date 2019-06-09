@@ -12,6 +12,6 @@ Languages & Tools:
   - SeaBorn
   - Matplotlib
     
-![](ReadMe_Images/Top_Ten.jpg)
+![](ReadMe_Images/Top_Ten.JPG)
 
-![](ReadMe_Images/HeatMap.jpg
+![](ReadMe_Images/HeatMap.jpg)
